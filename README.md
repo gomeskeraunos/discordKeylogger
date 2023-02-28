@@ -2,7 +2,7 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/gomeskeraunos/discordKeylogger/total?logo=python)
 
 # Discord Keylogger
-Simple Python, Console Print, To Webhook [Discord](https://pt.wikipedia.org/wiki/Discord) [Keylogger](https://pt.wikipedia.org/wiki/Keylogger).
+Simple [Python](https://pt.wikipedia.org/wiki/Python), Console Print, To Webhook[https://pt.wikipedia.org/wiki/Webhook] [Discord](https://pt.wikipedia.org/wiki/Discord) [Keylogger](https://pt.wikipedia.org/wiki/Keylogger).
 
 ## Instalation
 ```python
