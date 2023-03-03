@@ -1,6 +1,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/gomeskeraunos/discordKeylogger?logo=Python)
 ![GitHub all releases](https://img.shields.io/github/downloads/gomeskeraunos/discordKeylogger/total?logo=python)
 
+[Not yet published](https://github.com/gomeskeraunos)
 # Discord Keylogger
 Simple [Python](https://pt.wikipedia.org/wiki/Python), Console Print, To [Webhook](https://pt.wikipedia.org/wiki/Webhook) [Discord](https://pt.wikipedia.org/wiki/Discord) [Keylogger](https://pt.wikipedia.org/wiki/Keylogger).
 
